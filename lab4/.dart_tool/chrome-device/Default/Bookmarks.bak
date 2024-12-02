@@ -1,0 +1,126 @@
+{
+   "checksum": "3b849657f54b66b70d876842c4612788",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13216320264000000",
+            "date_last_used": "0",
+            "guid": "6dd4712a-9d09-4910-a73c-ceae91d20989",
+            "id": "12",
+            "name": "Начальная страница",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mozilla.org/ru/firefox/central/",
+            "visit_count": 0
+         }, {
+            "date_added": "13373731109203188",
+            "date_last_used": "0",
+            "guid": "1db9224e-8177-45b4-be64-2c4a92e6544a",
+            "id": "15",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.yandex.fr/?win=668&clid=9183495-678&from=dist_bookmark",
+            "visit_count": 0
+         } ],
+         "date_added": "13372773663217856",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "43f34737-f3b5-45b6-8ce7-907c7d20a951",
+                  "id": "8",
+                  "name": "Настройка Firefox",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/ru/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "55ea1809-988f-4a3e-80a7-315724909474",
+                  "id": "9",
+                  "name": "Присоединяйтесь к сообществу",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/ru/contribute/",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "3ab57e6e-c343-4a92-a11e-206936cdda0c",
+                  "id": "10",
+                  "name": "Справка и руководства",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/ru/products/firefox",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "5ef53b47-509b-4bb2-b648-26b4e2520b51",
+                  "id": "11",
+                  "name": "О нас",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/ru/about/",
+                  "visit_count": 0
+               } ],
+               "date_added": "13236071687513012",
+               "date_last_used": "0",
+               "date_modified": "13236071687513012",
+               "guid": "efcfeb56-595d-4956-ad9e-7e889bd44545",
+               "id": "7",
+               "name": "Mozilla Firefox",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13236071687406099",
+            "date_last_used": "0",
+            "date_modified": "13236071687406099",
+            "guid": "6f07a82e-877b-4b56-8df7-8a2d519dfc6e",
+            "id": "6",
+            "name": "Меню закладок Mozilla Firefox",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13372773663217859",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372773663217861",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCK5m8waTAQAAEgAqGHZFUkNEM2JYY2VaSXBmWXNMQjRvK1E9PUgDoAYEEqwBCAYSpwEKHEFPeGE2U2xvNldaNkYxdnhwZnZzb2xkUjJ3dz0SJDVhMDMzNDBmLTRjN2MtNGFiNC05N2VlLWQ4MWY2MjU3ODg4MRgAIAAoADDWy5uVqS444ZCdz/8vQOGQnc//L0ocYmU0ZG5RandpcEZjbXF6Y0M3SHdGOWVmaWE4PVoeIhwxSkYwajdXaHdtbmZLS0I3a0FxK3JweFZabkU9ZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ5MmI2ZTNmZC0wYTE1LTU4ODUtOGVmMi03NDg4MDQyNDhhMzEYACAAKAAwkbbdyLMwOPSPnc//L0D0j53P/y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASrAEIChKnAQocd3FIZ3l1UTdjQmFsdHFEbThiVUVIeThHeWVRPRIkYWM0NmIyOTEtODhmNC00MWU0LTg3OTctM2ZkMDYwMGU5NTkzGAAgACgAMNjLm5WpLjiQkZ3P/y9AkJGdz/8vShxLYy9YYmVKRnA3WG93aHNZU21TeWlkM1VDNEU9Wh4iHGQwNnoxRWRlKzZnS0o5RTRkMVI3N2JQSkVyOD1lAAAAAMI+AmAFEqwBCAcSpwEKHHlSdWxQMUJNK0lBblpaUjBhd1B6ZnZCSjIvaz0SJDdjOTUzM2ZiLTU2MjMtNDdmNi04ODJmLWFhOTk2NmJhYzViZhgAIAAoADDXy5uVqS448ZCdz/8vQPGQnc//L0ocVHUvcFQ0R0dPZXRjblhyK1VuMWZoUC9qa2xVPVoeIhxXNC9tdFBROHYyZTlDYkVDUWNKeGtJL0FpYlE9ZQAAAADCPgJgABKtAQgLEqgBChxlb3E2S1duSUI3NVRXcHZrMGxFSFA2bFoyUzg9EiQwZTc1YzRmYi1lY2QxLTRlNDctYjQ0Zi1lNTUxMzVmNGYyMjkYACAAKAAwidCblakuON6Rnc//L0DekZ3P/y9KHG9VUXBWNmNic1BuM3drU2F0V1VBZW9uTGt5bz1aHyIdpklkOEdGVmFQNVlhZTlaOFUzUnhuaEZUMWkzRT1lAAAAAMI+AmAFEqwBCA8SpwEKHEZJRmJVcmt2UlV1dUV2ZitvaXBNSnY0ZHFMST0SJDFkYjkyMjRlLTgxNzctNDViNC1iZTY0LTJjNGE5MmU2NTQ0YRgAIAAoADCFm6f9qzI4tZ2n/asyQLWdp/2rMkocUE1aK2FrbVFLZDJ2bGsrWjUvWERndE1sbjZZPVoeIhxnN2V0anA3NXl6dkR0QXkrbnphaWxJa0ZnQ0k9ZQAAAADCPgJgBRKsAQgIEqcBChxJY0hSUkNheStXeVVSWitRU3ZDek1tVWwveHM9EiQ3ZGUxNDk1Mi1lOGViLTQ1MzAtODc2Yi00YTZlZTA5YTBiODkYACAAKAAw2cublakuOKCRnc//L0CgkZ3P/y9KHGNlKzFhUGM2V2dZN2k4bVlid0RCVEw3Vzg4OD1aHiIcNHh5UHVzaE9CTVN1MytsaDJhdlB1RWVMVko0PWUAAAAAwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMzM0YzA5YjEtMGVlNS01MGZhLTg1MDEtOWQ4ZGYzNmJjMDEwGAAgACgAMJG23cizMDi2j53P/y9Ato+dz/8vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDI2MzgyODY3LTU0Y2MtNWRjZC05YzJkLTM2YmI4NzBiYTRhMBgAIAAoADCRtt3IszA4uY6dz/8vQLmOnc//L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgJEqcBChxsd2Z4REhVbnQwS0dJdHhsSk9PeUVsZDVLWFk9EiQyODFhNjYxNS0xY2MxLTRhMDItYWQ2YS0xMzg5YzI0NGI1N2YYACAAKAAwiNCblakuOL+Rnc//L0C/kZ3P/y9KHGdtcVNYcVgrRmRMRXR2ZUpLMVRDeFZDWC9MST1aHiIcTHM1UkhldlNOSVhBQTBFOE1SWEV2bEVoelpBPWUAAAAAwj4CYAUSrAEIDBKnAQocdUZGVW9IWjJLOERiNmh1dWF6ZlRXd3pSQ0hzPRIkNmI5M2MxYWQtZTE4Yy00NTA2LTgxMTYtYjgzOGJkNzI2OTQzGAAgACgAMIPri6SpLji8kp3P/y9AvJKdz/8vShw4WHZzaTM2TUtQY09TdUpscEpJV2o4RytxdTg9Wh4iHEdRT0FlSUlpRTU0SjZ4S2NxMUlEVURpT21mTT1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}

@@ -1,0 +1,125 @@
+{
+   "checksum": "989765553d71d6b21eb84cf3e12e9031",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13216320264000000",
+            "date_last_used": "0",
+            "guid": "6dd4712a-9d09-4910-a73c-ceae91d20989",
+            "id": "12",
+            "name": "Начальная страница",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mozilla.org/ru/firefox/central/",
+            "visit_count": 0
+         }, {
+            "date_added": "13373731109203188",
+            "date_last_used": "0",
+            "guid": "1db9224e-8177-45b4-be64-2c4a92e6544a",
+            "id": "15",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.yandex.fr/?win=668&clid=9183495-678&from=dist_bookmark",
+            "visit_count": 0
+         } ],
+         "date_added": "13372773663217856",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель уподобань",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "43f34737-f3b5-45b6-8ce7-907c7d20a951",
+                  "id": "8",
+                  "name": "Настройка Firefox",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/ru/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "55ea1809-988f-4a3e-80a7-315724909474",
+                  "id": "9",
+                  "name": "Присоединяйтесь к сообществу",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/ru/contribute/",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "3ab57e6e-c343-4a92-a11e-206936cdda0c",
+                  "id": "10",
+                  "name": "Справка и руководства",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/ru/products/firefox",
+                  "visit_count": 0
+               }, {
+                  "date_added": "13216320264000000",
+                  "date_last_used": "0",
+                  "guid": "5ef53b47-509b-4bb2-b648-26b4e2520b51",
+                  "id": "11",
+                  "name": "О нас",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/ru/about/",
+                  "visit_count": 0
+               } ],
+               "date_added": "13236071687513012",
+               "date_last_used": "0",
+               "date_modified": "13236071687513012",
+               "guid": "efcfeb56-595d-4956-ad9e-7e889bd44545",
+               "id": "7",
+               "name": "Mozilla Firefox",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13236071687406099",
+            "date_last_used": "0",
+            "date_modified": "13236071687406099",
+            "guid": "6f07a82e-877b-4b56-8df7-8a2d519dfc6e",
+            "id": "6",
+            "name": "Меню закладок Mozilla Firefox",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13372773663217859",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Інші вподобання",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13372773663217861",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Уподобання на мобільному пристрої",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
